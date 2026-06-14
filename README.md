@@ -2,11 +2,7 @@
 
 A modern and fully responsive travel landing page built using **HTML5** and **CSS3**. This project focuses on creating a clean user interface that adapts seamlessly across desktop, tablet, and mobile devices.
 
----
-
 ## Live Demo - https://wasim2934.github.io/Wanderlust-Travel/
-
----
 
 ## ✨ Features
 
